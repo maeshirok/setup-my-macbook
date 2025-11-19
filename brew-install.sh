@@ -14,11 +14,11 @@ casks=(
   linearmouse
   logi-options+
   microsoft-remote-desktop
-  kindle              # 不要ならコメントアウト
+  kindle
   notion
   obsidian
+  obs
   raycast
-  runcat
   slack
   spotify
   steam

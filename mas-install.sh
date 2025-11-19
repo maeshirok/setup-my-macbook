@@ -23,10 +23,10 @@ fi
 # インストール対象（App Store の App ID : 表示名）
 # 必要に応じてコメントアウトや追加をしてください
 apps=(
-  "417375580:BetterSnapTool"        # BetterSnapTool
-  "405399194:Kindle"                # Kindle for Mac
+  # "405399194:Kindle"              # Kindle →　なくなったらしい
   "539883307:LINE"                  # LINE
   "6446116532:MindNode"             # MindNode: Mind Map & Outline
+  "1429033973:RunCat"               # RunCat
 )
 
 echo "=== Mac App Store アプリのインストールを開始します ==="
